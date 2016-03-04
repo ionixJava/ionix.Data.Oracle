@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ionix.Data.Oracle">
+    <output-path>$PROJECT_DIR$/../../lib</output-path>
+    <root id="archive" name="ionix.Data.Oracle.jar">
+      <element id="module-output" name="ionix.Data.Oracle" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

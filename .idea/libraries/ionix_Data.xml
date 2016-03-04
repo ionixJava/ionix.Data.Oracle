@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ionix.Data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/ionix.Data.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/ionix.Utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
