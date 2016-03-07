@@ -12,7 +12,7 @@ final class SequenceManager {
 
     private static final HashMap<String, String> dic = new HashMap<>(8);
 
-    static synchronized String getSequenceName(DbAccess dataAccess, String tableName, String pkColumn)
+    static synchronized String getSequenceName(DbAccess dataAccess, String tableName, String pkColumn) 
     {
             tableName = tableName.toUpperCase();
 
